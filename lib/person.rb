@@ -17,3 +17,5 @@ class Person
     @name = persons_name
   end
 end
+
+#because when you  use initialize there is  no need to do the extra coding
