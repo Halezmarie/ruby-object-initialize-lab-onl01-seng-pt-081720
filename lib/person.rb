@@ -11,3 +11,4 @@ class Person
     @name
   end
   end
+#this can also be set as ""
